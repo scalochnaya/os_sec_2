@@ -11,4 +11,4 @@ gcc -o test test.c
 ```
 make
 ```
-> Все что не работает, заработает
+> Все что не работает, заработает © [с](https://github.com/scalochnaya)
